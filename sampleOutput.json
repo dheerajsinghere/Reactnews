@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+            "id": "lequipe",
+            "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Programme TV foot : à quelle heure et sur quelle chaîne voir les matchs de ce soir (9 mai 2023) ?",
+            "description": "Retrouvez l'intégralité des retransmissions des matches de football du jour diffusés sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Suivez tous les matches en direct sur votre télévision ou en s…",
+            "url": "https://www.lequipe.fr/Football/Actualites/Programme-tv-foot-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-de-ce-soir-9-mai-2023/1395577",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001560314/0:0,2496:1664-640-427-75/0de70.jpg",
+            "publishedAt": "2023-05-09T05:00:15+00:00",
+            "content": "Ligue des champions : demi-finales aller demi-finales \r\n- Real Madrid - Manchester City : à 21 heures en direct sur RMC Sport UHD, RMC Sport 1 et Canal+ Foot"
+            },
+            {
+            "source": {
+            "id": "bbc-sport",
+            "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Who is a conductor? Garth Crooks' Team of the Week",
+            "description": "Which players impressed our football pundit Garth Crooks enough to make his latest Team of the Week?",
+            "url": "http://www.bbc.co.uk/sport/football/65519818",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0A0D/production/_129637520_quiz-index-imagery-cant-show-face-generic--c86d59d0-795f-4d91-920b-5eb15e3ef769.png",
+            "publishedAt": "2023-05-08T23:22:16.9300601Z",
+            "content": "At the end of every round of fixtures, BBC football pundit Garth Crooks is on hand to give you his Team of the Week.\r\nWho has he picked this time? Take a look and then pick your own team below and sh… [+11019 chars]"
+            }
+    ]
+}
